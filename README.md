@@ -29,7 +29,7 @@ const skills =
 {
   languages :[Javascript, NodeJS, Python, CSS3, HTML5],
   
-  ide       :[Vs Code, PyCharm],
+  ide       :[VS Code, PyCharm],
   
   libraries :[React],
   
