@@ -29,7 +29,7 @@ var status =
 
 const skills = 
 {
-  languages :[Javascript, NodeJS, Python, CSS3, HTML5],
+  languages :[Javascript, Python, CSS3, HTML5],
   
   ide       :[VS Code, PyCharm],
   
