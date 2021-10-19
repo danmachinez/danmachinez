@@ -24,7 +24,7 @@ document.write("Hello World");
 var status = 
 { 
   learning : [JavaScript, React, NodeJS],
-  interests: [Security, Blockchain]
+  interests: [SPA, Security, Blockchain]
 }
 
 const skills = 
