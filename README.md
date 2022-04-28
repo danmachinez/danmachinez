@@ -35,9 +35,7 @@ const skills =
   
   libraries :[React],
   
-  frameworks:[ExpressJS, Flask],
-  
-  platforms :[Heroku],
+  frameworks:[ExpressJS, Flask, NodeJS],
 }
 
 Developer dev = new Developer(DanMachinez);
