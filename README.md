@@ -13,7 +13,7 @@
  <a href = "mailto:dmvdev@proton.me"><img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white target="_blank"></a>
   <a href="https://t.me/danmachinez" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <img align='right' height='220' alt='dan-gif' src='https://cdn.discordapp.com/attachments/258462466059665409/884819992686755840/dangif.gif'>
-   target="_blank"</div>
+   </div>
 
  
  ##
