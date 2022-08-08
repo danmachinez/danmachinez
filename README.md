@@ -52,5 +52,5 @@ while(dev.isCoding() && dev.isStuck())
  
  <div align='center'>
   <a href="https://github.com/danmachinez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmachinez&layout=compact&langs_count=7&theme=monokai-pro"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmachinez&layout=compact&langs_count=7&theme=dark"/>
 </div>
