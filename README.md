@@ -23,7 +23,7 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Java, JavaScript, AngularJS, NodeJS],
+  learning : [Java, Springboot, JavaScript, AngularJS, NodeJS],
   interests: [SPA, Web Development, Security, Blockchain]
 }
 
@@ -31,7 +31,7 @@ const skills =
 {
   languages :[Java, Javascript, Python],
   
-  ide       :[VS Code, PyCharm],
+  ide       :[IntelliJ, VS Code, PyCharm],
   
   libraries :[AngularJS, React],
   
