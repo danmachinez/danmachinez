@@ -1,4 +1,4 @@
-## <h1 align='center'>Hey you! I'm Danilo Machinez. Welcome to my Github! 👋</h1>
+ ## <h1 align='center'>Hey you! I'm Danilo Machinez. Welcome to my Github! 👋</h1>
 
 <div> 
  
@@ -33,9 +33,9 @@ const skills =
   
   ide       :[IntelliJ, VS Code, PyCharm],
   
-  libraries :[AngularJS, React],
+  libraries :[React],
   
-  frameworks:[ExpressJS, Flask, NodeJS],
+  frameworks:[Angular, Flask, NodeJS],
 }
 
 Developer dev = new Developer(DanMachinez);
